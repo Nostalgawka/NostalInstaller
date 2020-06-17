@@ -1,6 +1,6 @@
 # INFO
 
-![](https://github.com/vjasieg/NostalInstaller/img/pic.png
+![](https://github.com/vjasieg/NostalInstaller/img/pic.png)
 
 Instalator clienta minecraft wymaganego do gry na serwerze Nostalgawki.
 
