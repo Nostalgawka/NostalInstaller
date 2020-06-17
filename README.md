@@ -1,4 +1,4 @@
-# INFO
+# NostalInstaller
 
 ![](https://github.com/vjasieg/NostalInstaller/blob/master/img/pic.png)
 
